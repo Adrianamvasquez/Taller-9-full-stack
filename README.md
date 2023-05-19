@@ -11,5 +11,11 @@
 <a href="https://www.figma.com/file/t50EQq4W8LX5A4v9hlDj2U/Untitled?type=design&node-id=0-1&t=FVfcOMsBtum8kU4X-0">
 Link Figma</a>
 
+<h2>Punto 2: HTML Link de Figma</h2>
+<img src="./public/images/html.png" alt="html">
+
+
+
+
 
 
