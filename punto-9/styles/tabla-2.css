@@ -1,0 +1,55 @@
+table {
+  width: 50%;
+  margin: 0px 50px;
+  background-color: yellow;
+  border-style: dotted;
+  border-width: 1px;
+}
+header {
+  border-bottom-color: black;
+}
+main {
+  border-bottom-color: black;
+}
+
+.red1 {
+  color: red;
+}
+
+.red2 {
+  color: red;
+}
+
+.sin_borde {
+  border-bottom-color: red;
+}
+.borde1 {
+  border-bottom: 0;
+}
+.borde2 {
+  border-bottom: none;
+}
+.borde3 {
+  border-right: 1px dotted;
+}
+.borde4 {
+  border-right: 1px dotted;
+}
+.borde6 {
+
+  border-top: 1px dotted;
+
+}
+.borde5 {
+  border-right: 1px dotted;
+  border-top:1px dotted ;
+}
+
+
+
+
+
+
+
+
+

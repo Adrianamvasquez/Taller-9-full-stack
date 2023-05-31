@@ -1,0 +1,19 @@
+strong{
+    display: flex;
+    font-size: 40px;
+    margin: 20px 20px;
+}
+
+.yellow{
+    color: yellow;
+    font-size: 40px;
+    margin: 20px 20px;  
+
+}
+.purple{
+    color: blueviolet;
+    font-size: 40px;
+    margin: 20px 20px;
+    font-weight: bold;
+     
+}
